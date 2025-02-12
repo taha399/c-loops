@@ -1,0 +1,14 @@
+//TO CHEAK THE VEN VALUES BETWEEN THE USER GIVEN US
+#include<iostream>
+using namespace std;
+main()
+{
+	int i=1,n;
+	cout<<"enter your value=";
+	cin>>n;
+	while(i<=n){
+	if(i%2==0){
+		cout<<-i;
+	}i++;
+}
+}
