@@ -4,7 +4,7 @@
 //3 soup.
 //4 sweet
 //6 qorma 
-//samwitch
+//sanwitch
 
 #include <iostream>
 
